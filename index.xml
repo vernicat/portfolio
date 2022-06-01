@@ -26,7 +26,7 @@ When performing tasks, I look for effective solutions and systematize everything
       <guid>https://vernicat.github.io/portfolio/projects/</guid>
       <description>2022 Personal data storage (Mar - Apr `22) Grocery delivery service (May `22 - now) 2021 School of Studio Oleg Ch. (May `21) Split the bill (thesis project) (Dec - Jun `21) The social network (Aug - Sep `21) Electronics Store (Dec - Jan `21)
 and ect. 🎒 School of Studio Oleg Ch. GitHub Repo: react-chsch
-Description Лендинг школы для Дизайн Студии
+Description Лендинг школы для Дизайн Студии.
 Типографика, цвета и элементы сделаны по гайдлайну Вынесен повторяющийся код в pug mixins, а стили - в переменные, которые генерируются из json-файла Ипользованы html- и css-препроцессоры add: semantic, adaptive</description>
     </item>
     
