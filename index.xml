@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home of Catherine Vernigorova 👋 on VerniCat developer</title>
+    <title>VerniCat developer</title>
     <link>https://vernicat.github.io/portfolio/</link>
-    <description>Recent content in Home of Catherine Vernigorova 👋 on VerniCat developer</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 24 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://vernicat.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent content on VerniCat developer</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://vernicat.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
       <link>https://vernicat.github.io/portfolio/about/</link>
@@ -15,7 +13,7 @@
       <guid>https://vernicat.github.io/portfolio/about/</guid>
       <description>Hello everyone! My name is Catherine.
 And here are a few facts about me:
-When performing tasks, I look for effective solutions and systematize everything 💜 I worked for a year as a teacher of professional disciplines (incl. JavaScript) combined with studying at the university In my spare time, I solve kata on CodeWars &amp;gt; I strive to become a highly skilled professionals and a valued employee. Technology stack (experience) Vue v2 | v3 + Vuex React + Redux Node.</description>
+When performing tasks, I look for effective solutions and systematize everything 💜 I worked for a year as a teacher of professional disciplines (incl. JavaScript) combined with studying at the university In my spare time, I solve kata on CodeWars and do fitboxing 🥊 &amp;gt; I strive to become a highly skilled professional and a valued employee.</description>
     </item>
     
     <item>
@@ -24,10 +22,10 @@ When performing tasks, I look for effective solutions and systematize everything
       <pubDate>Sat, 24 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://vernicat.github.io/portfolio/projects/</guid>
-      <description>2022 Personal data storage (Mar - Apr `22) Grocery delivery service (May `22 - now) 2021 School of Studio Oleg Ch. (May `21) Split the bill (thesis project) (Dec - Jun `21) The social network (Aug - Sep `21) Electronics Store (Dec - Jan `21)
+      <description>2022 Personal data storage (Mar - Apr `22) Grocery delivery service (May `22 - now) 2021 School of Studio Oleg Ch. (May `21) Split the bill (thesis project) (Dec - Jun `21) The social network (Aug - Sep `21) Electronics Store (Dec - Jan `22)
 and ect. 🎒 School of Studio Oleg Ch. GitHub Repo: react-chsch
-Description Лендинг школы для Дизайн Студии.
-Типографика, цвета и элементы сделаны по гайдлайну Вынесен повторяющийся код в pug mixins, а стили - в переменные, которые генерируются из json-файла Ипользованы html- и css-препроцессоры add: semantic, adaptive</description>
+Description The website of the school for the Design Studio.
+Typography, colors and elements are made in accordance with guideline Repetitive code is moved to pug mixins, and the styles are moved to variables that are generated from the json file html- and css-preprocessors are used add: semantic, adaptive</description>
     </item>
     
   </channel>
